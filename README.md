@@ -1,4 +1,6 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AleksandreGaspariani)
+<div align="right">
+    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AleksandreGaspariani)
+</div>
 
 <br>
 
